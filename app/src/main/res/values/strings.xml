@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GymInventory</string>
+    <string name="equipment_type_text">%s</string>
+    <string name="stock_quantity_text">%s</string>
+    <string name="stock_description_text">%s</string>
+    <string name="title_text">%s</string>
+</resources>
